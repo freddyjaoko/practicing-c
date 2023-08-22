@@ -1,0 +1,6 @@
+Create an integer avariable called height
+Get input from the user
+check if the input is less than one or greater than 8. If so rehect the input
+Create a for loop that itereates through the input until it reaches 1
+Create another for loop that creates the spaces
+Have another for loop that prints the hashes at the end of the spaces
